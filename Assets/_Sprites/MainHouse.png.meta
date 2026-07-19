@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 6262a80270b3d444c8addc72c51fefc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3196820088954365611
+    second: MainHouse_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0_PlayerHouse_Right_Roof
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 80
+        height: 96
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559da0b011d92a3d0800000000000000
+      internalID: -3196820088954365611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_PlayerHouse_Left_Roof
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 80
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1224c6ab1f8bf7d4b8bc93a79c4f8540
+      internalID: -516841678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_PlayerHouse_Left_Main
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32844d707d7af44aaa6ff62e16c473
+      internalID: 2040155604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_PlayerHouse_Right_Main
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 80
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d6be984a123940b717da3cc8278b3
+      internalID: -1435941760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b2f571e66c358b24d86e740d191cb912
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      0_PlayerHouse_Left_Main: 2040155604
+      0_PlayerHouse_Left_Roof: -516841678
+      0_PlayerHouse_Right_Main: -1435941760
+      0_PlayerHouse_Right_Roof: -3196820088954365611
+      MainHouse_10: -1042855105
+      MainHouse_11: 1406451524
+      MainHouse_13: 1403559614
+      MainHouse_14: 458323448
+      MainHouse_15: 91411168
+      MainHouse_16: -1561472870
+      MainHouse_17: 1182993576
+      MainHouse_18: 1641420876
+      MainHouse_19: 1826235955
+      MainHouse_2: 913567419
+      MainHouse_20: 1106654296
+      MainHouse_21: -1836580624
+      MainHouse_22: -1857822217
+      MainHouse_23: 1276935692
+      MainHouse_24: 862533778
+      MainHouse_25: -1099056029
+      MainHouse_26: -1404174191
+      MainHouse_27: 1601570754
+      MainHouse_28: -210700699
+      MainHouse_29: 829966807
+      MainHouse_3: 1463167079
+      MainHouse_30: 1634298541
+      MainHouse_31: 779972640
+      MainHouse_32: -5272640
+      MainHouse_33: 178478322
+      MainHouse_34: -1965573089
+      MainHouse_35: -1395470475
+      MainHouse_36: 523111208
+      MainHouse_37: -990463772
+      MainHouse_38: -1711113072
+      MainHouse_39: 1995242613
+      MainHouse_4: 1831406597
+      MainHouse_40: -1607164573
+      MainHouse_41: 1920130380
+      MainHouse_42: 1527314791
+      MainHouse_43: 405778521
+      MainHouse_44: 1688299434
+      MainHouse_45: -1669446709
+      MainHouse_46: 1017737530
+      MainHouse_47: 1405762331
+      MainHouse_48: 1898583520
+      MainHouse_49: -1150937789
+      MainHouse_5: 923059812
+      MainHouse_50: 1510214208
+      MainHouse_51: -1800015123
+      MainHouse_52: -38516010
+      MainHouse_53: -72304489
+      MainHouse_54: 1973500037
+      MainHouse_55: 918146191
+      MainHouse_56: 1391697843
+      MainHouse_57: -1507466017
+      MainHouse_59: 681808579
+      MainHouse_6: 1477296434
+      MainHouse_60: 500773997
+      MainHouse_61: -1780463861
+      MainHouse_62: -1648971980
+      MainHouse_63: 2133308959
+      MainHouse_64: 814026560
+      MainHouse_65: 1093179906
+      MainHouse_7: -1059065790
+      MainHouse_8: 1922407932
+      MainHouse_9: -1399155460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrains
+    uniqueID: 3779933925
+    locked: 0
+  - name: Decorations
+    uniqueID: 1357991297
+    locked: 0
+  - name: Buildings_Bottom
+    uniqueID: 2997389909
+    locked: 0
+  - name: Interiors_Floor
+    uniqueID: 1188967351
+    locked: 0
+  - name: Interiors_Walls
+    uniqueID: 3603711577
+    locked: 0
+  - name: InteriorsShadows
+    uniqueID: 1505569919
+    locked: 0
+  - name: Player
+    uniqueID: 915042427
+    locked: 0
+  - name: YSorting
+    uniqueID: 1263284463
+    locked: 0
+  - name: Interiors_BlackColor
+    uniqueID: 4205515389
+    locked: 0
+  - name: Interiors_TopWalls
+    uniqueID: 3528639861
+    locked: 0
+  - name: Soul
+    uniqueID: 3879848499
+    locked: 0
+  - name: Buildings_Middle
+    uniqueID: 3403482193
+    locked: 0
+  - name: Buildings_Top
+    uniqueID: 749562159
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
